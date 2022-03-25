@@ -1,3 +1,14 @@
 .wow {
   width: 100px;
 }
+
+body {
+  background-color: lightgrey;
+  font-family: cursive;
+  font-size: 24px;
+}
+
+canvas {
+  margin-left: 50px;
+  border: 2px;
+}
